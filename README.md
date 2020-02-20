@@ -1,4 +1,6 @@
-Robot code in the FRC Environment for Tennis Shooter robot
+Tennis shooter code
+
+Robot code in the FRC programming environment and the wpilib library.
 
 Images
 ![](images/pic1)
